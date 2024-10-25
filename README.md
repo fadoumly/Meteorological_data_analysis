@@ -21,5 +21,5 @@ Wilcoxon test to assess latitude differences between departments.
 Regression analysis to determine the effect of month on precipitation.
 Usage Instructions Installation of R Packages: Ensure that necessary packages, particularly ggplot2 for visualization, are installed.
 
-Conclusion 
+Conclusion : 
 This project provides a deeper understanding of climate variations in the Creuse and Isère departments, and the results may be useful for future studies or data-based climate-related decision-making.
